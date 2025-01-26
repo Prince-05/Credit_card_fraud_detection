@@ -63,7 +63,7 @@ pip install pandas scikit-learn imbalanced-learn numpy
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prince-05/Credit_card_fraud_detection
    ```
 2. Navigate to the project directory and ensure the dataset (`Creditcard_data.csv`) is available.
 3. Run the Jupyter Notebook file:
